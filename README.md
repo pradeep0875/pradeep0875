@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [BasketBall shot predication](https://github.com/pradeep0875/BasketBall-Shot-Prediction)
 
-- 🌱 I’m currently learning **LLM,NLP,DSA(java**
+- 🌱 I’m currently learning **LLM,NLP,DSA(java)
 
 - 👨‍💻 All of my projects are available at [https://github.com/pradeep0875?tab=repositories](https://github.com/pradeep0875?tab=repositories)
 
-- 💬 Ask me about **ML projects,LLM etc**
+- 💬 Ask me about **ML projects,LLM,Web Development etc**
 
 - 📫 How to reach me **https://www.linkedin.com/in/pradeep-726311120/**
 
