@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradeep</h1>
-<h3 align="center">A M.sc. Computer Science Student of University of Delhi</h3>
+<h3 align="center">A M.sc. Computer Science Student in University of Delhi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeep0875&label=Profile%20views&color=0e75b6&style=flat" alt="pradeep0875" /> </p>
 
