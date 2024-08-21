@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **ML projects,LLM,Web Development etc**
 
+- 💬 My codolio profile : **https://codolio.com/profile/2ePfuVTD**
+
 - 📫 How to reach me **https://www.linkedin.com/in/pradeep-726311120/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1flOVzVQHpOqrk0Er5HIdEWfdisEOXRG_/view?usp=drive_link](https://drive.google.com/file/d/1flOVzVQHpOqrk0Er5HIdEWfdisEOXRG_/view?usp=drive_link)
